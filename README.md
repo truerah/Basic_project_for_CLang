@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 💡 C Language Learning Hub
 
@@ -38,3 +39,7 @@ Want to make this more fun or useful? 🎮🧰
 ## 📫 Let’s Collaborate
 
 Whether you're learning C or just exploring old-school programming, this hub is your playground. Fork it, extend it, and share your creativity!
+=======
+# Basic_project_for_CLang
+ A beginner-friendly C project that demonstrates all core C programming concepts in one modular, menu-driven application.
+>>>>>>> 07f3deaddead28ac65979afb5a0229c6a92b715e
