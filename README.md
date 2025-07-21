@@ -8,14 +8,6 @@ Each mini-program (calculator, guessing game, string tools, etc.) teaches a core
 
 ---
 
-## 🚀 What’s Inside?
-
-✅ Beginner-friendly C code  
-✅ Fully modular — each feature is a separate `.c/.h` file  
-✅ Covers key topics: **functions, arrays, strings, pointers, malloc, file I/O**, and more
-
----
-
 ## 🧠 How to Run
 
 ```bash
@@ -38,8 +30,4 @@ Want to make this more fun or useful? 🎮🧰
 
 ## 📫 Let’s Collaborate
 
-Whether you're learning C or just exploring old-school programming, this hub is your playground. Fork it, extend it, and share your creativity!
-=======
-# Basic_project_for_CLang
- A beginner-friendly C project that demonstrates all core C programming concepts in one modular, menu-driven application.
 >>>>>>> 
